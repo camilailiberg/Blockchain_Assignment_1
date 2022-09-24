@@ -22,3 +22,6 @@ def encrypt(message, key):
             rv += '0'
         rv += encrypted
     return rv
+
+if __name__ == "__main__":
+    print("Implement Question")
